@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-from typing import List
 """ a python script to find sum of a list"""
+from typing import List
 
 
 def sum_list(input_list: List) -> float:
