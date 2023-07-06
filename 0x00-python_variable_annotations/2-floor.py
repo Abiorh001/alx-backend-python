@@ -3,4 +3,5 @@
 
 
 def floor(n: float) -> int:
+    """function to return a integer annotation"""
     return int(n)
