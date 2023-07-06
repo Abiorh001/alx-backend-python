@@ -3,4 +3,5 @@
 
 
 def to_str(n: float) -> str:
+    """ a python script for annotating string type"""
     return str(n)
